@@ -1,0 +1,22 @@
+.elementor-33 .elementor-element.elementor-element-354e223{--e-image-carousel-slides-to-show:7;}.elementor-33 .elementor-element.elementor-element-354e223 .swiper-wrapper{display:flex;align-items:flex-end;}.elementor-33 .elementor-element.elementor-element-354e223 .elementor-image-carousel-caption{text-align:center;}.elementor-33 .elementor-element.elementor-element-dd7fd54 img{height:500px;object-fit:fill;}.elementor-33 .elementor-element.elementor-element-dd7fd54 > .elementor-widget-container{padding:125px 0px 0px 0px;}.elementor-33 .elementor-element.elementor-element-420ae05 .elementor-repeater-item-f9a5617 .swiper-slide-bg{background-color:#FFFFFF;background-image:url(http://localhost/wordpress/wp-content/uploads/2022/05/Asia_FA-KV-edit1-1.png);background-size:cover;}.elementor-33 .elementor-element.elementor-element-420ae05 .elementor-repeater-item-3c0e845 .swiper-slide-bg{background-color:#FFFFFF;background-image:url(http://localhost/wordpress/wp-content/uploads/2022/05/Asia_FA-KV-edit1-1.png);background-size:cover;}.elementor-33 .elementor-element.elementor-element-420ae05 .swiper-slide{height:840px;}.elementor-33 .elementor-element.elementor-element-420ae05 .swiper-slide-contents{max-width:70%;}.elementor-33 .elementor-element.elementor-element-420ae05 .swiper-slide-inner{padding:0px 0px 0px 0px;text-align:center;}.elementor-33 .elementor-element.elementor-element-420ae05 > .elementor-widget-container{padding:0px 0px 0px 0px;}:root{--page-title-display:none;}/* Start custom CSS for image-carousel, class: .elementor-element-354e223 */.slide-fan img{
+    height: 120px;
+    width: 130px;
+    background-color:#F5F6F7;
+    border-radius: 10px;
+    padding: 5px;
+}
+.slide-fan .elementor-swiper-button 
+{
+    background-color:#BACEE3;
+    border-radius: 15px;
+    color: #152433;
+    padding: 3px;
+    
+    
+}/* End custom CSS */
+/* Start custom CSS for image, class: .elementor-element-dd7fd54 */.elementor-33 .elementor-element.elementor-element-dd7fd54 img{
+    height: 715px;
+}/* End custom CSS */
+/* Start custom CSS for slides, class: .elementor-element-420ae05 */.banner-right .swiper-pagination {
+    text-align: left;
+}/* End custom CSS */
